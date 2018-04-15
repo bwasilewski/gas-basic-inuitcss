@@ -1,6 +1,6 @@
-# Build Starter
+# Build Starter with Inuit CSS
 
-The purpose of this project is to define a useful starting point for developing small to medium-sized static websites while utilizing modern technologies to automate common tasks.
+This is a "fork" of [Build Starter](https://github.com/bwasilewski/build-starter) which replaces Bootstrap with [Inuit CSS](https://github.com/inuitcss/inuitcss).
 
 ## Features
 
